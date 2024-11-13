@@ -2,7 +2,7 @@
 **Automated Tagging and Renaming for Elements in BI tool**
 
 <div align="center">
-  <img src="./img/tidy_bot.png" alt="Tidy-Bot">
+  <img src="./img/Tidy_bot.png" alt="Tidy-Bot">
 </div>
 
 
